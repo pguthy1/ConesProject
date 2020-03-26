@@ -1,2 +1,8 @@
 # Ignore IDE config directory
 /.idea/
+
+# Ignore debug directory
+/cmake-build-debug/
+
+# Ignore CMakeLists.txt
+CMakeLists.txt
